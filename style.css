@@ -1,0 +1,23 @@
+body{
+    background-color: #faead6;
+
+}
+
+.display-5{
+    font-family: 'Urbanist', sans-serif;
+}
+.lead{
+    font-family: 'Urbanist', sans-serif;
+}
+
+.pro{
+    text-decoration:underline ;
+}
+
+.d-block{
+ box-shadow: 10px 10px 1px 1px;
+}
+
+.code{
+    font-weight: bold;
+}
